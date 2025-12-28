@@ -14,3 +14,14 @@ These scripts were written purely for educational and experimental purposes.
 They are not intended for competitive use or misuse on public platforms.
 
 The project exists as a personal archive of automation experiments.
+
+## Dependencies
+
+Some scripts rely on external Python libraries.
+
+Required packages are listed in `requirements.txt`.
+
+You can install them using:
+
+```bash
+pip install -r requirements.txt
